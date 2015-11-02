@@ -9,9 +9,9 @@
 
 ## Introduction to JSON
 
-JSON stands for JavaScript Object Notation and it has become the defacto standard for computer-to-computer communiation (APIs). Sites like Flickr, WeatherUnderground, and Spotify expose at least some of their data in a JSON format. 
+JSON stands for JavaScript Object Notation and it has become the defacto standard for computer-to-computer communication (APIs). Sites like Flickr, WeatherUnderground, and Spotify expose at least some of their data in a JSON format. 
 
-Before we get our hands dirty, install the Chrome extension [JSONView](https://github.com/jamiew/jsonview-chrome) and then open this page using a Chrome browser. Now that you've installed the extention, which will just make JSON easier to read, take a look at OpenWeatherMap's data for the weather in New York today here:
+Before we get our hands dirty, install the Chrome extension [JSONView](https://github.com/jamiew/jsonview-chrome) and then open this page using a Chrome browser. Now that you've installed the extension, which will just make JSON easier to read, take a look at OpenWeatherMap's data for the weather in New York today here:
 
 [http://api.openweathermap.org/data/2.5/weather?q=New%20York,us](http://api.openweathermap.org/data/2.5/weather?q=New%20York,us)
 
@@ -46,9 +46,9 @@ This object that you see on the page linked above is a JSON object. The property
 
 ## Introduction to AJAX
 
-[AJAX](http://stackoverflow.com/a/1510156/2890716) stands for Asynchronous Javascript And Xml. In a nutshell, it allows your browser to send and fetch information to and from APIs without a page refesh. Pretty much, AJAX makes it possible to update parts of a web page, without reloading the whole page.
+[AJAX](http://stackoverflow.com/a/1510156/2890716) stands for Asynchronous Javascript And Xml. In a nutshell, it allows your browser to send and fetch information to and from APIs without a page refresh. Pretty much, AJAX makes it possible to update parts of a web page, without reloading the whole page.
 
-How awesome is this? The awesomest! AJAX rules because page refeshes take a long time and users these days are impatient. Who wants to wait while a page loads, just to click a button that will load another page?!? Not me. 
+How awesome is this? The awesomest! AJAX rules because page refreshes take a long time and users these days are impatient. Who wants to wait while a page loads, just to click a button that will load another page?!? Not me. 
 
 ## AJAX with Spotify's Chart API
 
