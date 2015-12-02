@@ -190,3 +190,5 @@ Assuming the Spotify Chart API is functional, running the code above from your b
 * [Copter Labs - JSON: What It Is and How to Use It](http://www.copterlabs.com/blog/json-what-it-is-how-it-works-how-to-use-it/)
 * [StackOverflow - How Does AJAX Work?](http://stackoverflow.com/questions/1510011/how-does-ajax-work)
 * [jQuery Documentation](http://jquery.com/)
+
+<a href='https://learn.co/lessons/intro-to-json-and-ajax.js' data-visibility='hidden'>View this lesson on Learn.co</a>
