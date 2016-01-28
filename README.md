@@ -191,4 +191,4 @@ Assuming the Spotify Chart API is functional, running the code above from your b
 * [StackOverflow - How Does AJAX Work?](http://stackoverflow.com/questions/1510011/how-does-ajax-work)
 * [jQuery Documentation](http://jquery.com/)
 
-<a href='https://learn.co/lessons/intro-to-json-and-ajax.js' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-json-and-ajax.js' title='JSON and AJAX'>JSON and AJAX</a> on Learn.co and start learning to code for free.</p>
